@@ -67,8 +67,8 @@ These feature will come soon.
 Download and Run the Project
 
 ### Installation 
-1. Clone the repo `https://github.com/prashant280920/Personal_Diary_WebApp.git`.
-2. Run `cd Personal_Diary_WebApp`.
+1. Clone the repo `https://github.com/PriyanshuSingh00/Personal-Diary-Webapp.git`.
+2. Run `cd Personal-Diary-WebApp`.
 3. Install dependencies using npm - Run `npm install`.
 
 ### Running the App

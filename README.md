@@ -8,8 +8,7 @@ My attempt at making a decent interactive diary.
 
 **Note**:- This WebApp is only for laptop users. We are trying to make this fesible for Android users also. 
 
-### App is live at
-1. Deploy on GitHub - https://prashant280920.github.io/Personal_Diary_WebApp/
+
 
 ### Hosted 
 * [Heroku](https://www.heroku.com/)
@@ -50,7 +49,7 @@ These feature will come soon.
 * [Font-Awesome](https://fonts.google.com/)
 
 ## API End Points
-Whole code of Backend present on [this](https://github.com/prashant280920/diaryApp_server) link.
+
 
 |Verb   |Enpoints                 | Action                         | Description                                |
 |:------|:------------------------|:-------------------------------|:-------------------------------------------|
@@ -75,8 +74,6 @@ Download and Run the Project
 ### Running the App
 * Run `npm start`.
 
-### Want to Solve Issues
-Check [this](https://github.com/prashant280920/Personal_Diary_WebApp/issues) list.
 
 ### Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Go ahead and fork the project.
